@@ -1,0 +1,5 @@
+soy un programador y necesito una aplicacion de un formulario que cuando escriba una ciudad de España me diga si es de las ciudades  mas turisticas y visitadas con los codigos html,css y javascript 
+
+Corrige un error del código javascript, ya que siempre sale como respuesta que "No es una de las ciudades más turísticas de España". Corrige ese error para que cuando se escriban los datos de la variable touristCities nos de como  válida la respuesta
+
+basado en el codigo anterior de javascript hazme un codigo que muestre la bandera de cada comunidad autonoma
